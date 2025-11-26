@@ -250,5 +250,5 @@ Developed by **bug:783074475738398752**
 
 # 📧 Support
 Support server coming soon.  
-If you want, I can set up a full support server with roles & channels.
+ 
 
